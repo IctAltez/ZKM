@@ -1,8 +1,8 @@
 {
   "title": "ALTEZ Tools - ICT",
   "description": "Zoek modelobjecten op Cast Unit Mark en andere parameters.",
-  "icon": "https://ictaltez.github.io/Altez-Zoekmachine/icon.png",
-  "url": "https://ictaltez.github.io/Altez-Zoekmachine/index.html",
+  "icon": "https://ictaltez.github.io/ZKM/icon.png",
+  "url": "https://ictaltez.github.io/ZKM/index.html",
   "enabled": true,
   "extensionType": [
     "3dviewer"
